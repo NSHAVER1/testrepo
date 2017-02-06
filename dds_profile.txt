@@ -1,0 +1,8 @@
+                             categories scores
+1                  computer programming      1
+2                                  math      2
+3                            statistics      3
+4                      machine learning      2
+5                      domain expertise      4
+6 communication and presentation skills      5
+7                    data visualization      4
